@@ -14,7 +14,7 @@ I'm a fullstack developer passionate about building **desktop applications**, ex
 const artemPodloboshnikov = {
     role: "Fullstack Developer",
     passions: ["Desktop Apps", "Decentralized Systems", "Blockchain", "ML"],
-    currentlyExploring: ["LLM-powered tools", "Web3", "Applied AI"],
+    currentlyExploring: ["LLM-powered tools", "Web3", "P2P systems"],
 };
 ```
 
